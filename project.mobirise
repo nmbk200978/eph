@@ -48,29 +48,29 @@
               "display": "none !important"
             },
             ".navbar-toggler": {
-              "color": "#616161"
+              "color": "#2d2d2d"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#616161"
+              "background-color": "#2d2d2d"
             },
             ".link, .dropdown-item": {
-              "color": "#616161",
+              "color": "#2d2d2d",
               "font-family": "'Libre Franklin', serif"
             },
             ".link": {
-              "font-size": "0.8125rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.880rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .link:focus": {
-              "color": "@primaryColor"
+              "color": "#bb412e"
             },
             ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "@primaryColor"
+              "background": "#bb412e"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#616161"
+              "color": "#2d2d2d"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#ffffff"
@@ -82,36 +82,36 @@
               "background": "#fff"
             },
             ".bg-color.transparent .link": {
-              "color": "#616161",
+              "color": "#2d2d2d",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
+              "color": "#bb412e"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#5aac98!important"
+              "color": "#bb412e!important"
             }
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#fff",
-            "fontSize": 0.8125,
-            "imageSize": 4,
+            "fontSize": "1.1",
+            "imageSize": "5",
             "fontName": {
               "name": "Libre Franklin",
               "css": "'Libre Franklin', serif",
               "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
             },
-            "fontColor": "#616161",
-            "fontHoverColor": "@primaryColor"
+            "fontColor": "#2d2d2d",
+            "fontHoverColor": "#bb412e"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">BELIEF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">CALENDAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-e\" aria-expanded=\"false\">RECENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=&amp;item_name=Tithe&amp;currency_code=USD\" aria-expanded=\"false\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">LOCATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {

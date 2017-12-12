@@ -519,35 +519,35 @@ a:hover {
   display: none !important;
 }
 #menu2-b .navbar-toggler {
-  color: #616161;
+  color: #2d2d2d;
 }
 #menu2-b .close-icon::before,
 #menu2-b .close-icon::after {
-  background-color: #616161;
+  background-color: #2d2d2d;
 }
 #menu2-b .link,
 #menu2-b .dropdown-item {
-  color: #616161;
+  color: #2d2d2d;
   font-family: 'Libre Franklin', serif;
 }
 #menu2-b .link {
-  font-size: 0.8125rem;
+  font-size: 1.1rem;
 }
 #menu2-b .dropdown-item,
 #menu2-b .nav-dropdown-sm .link {
-  font-size: 0.880rem;
+  font-size: 1.191rem;
 }
 #menu2-b .link:hover,
 #menu2-b .link:focus {
-  color: #5aac98;
+  color: #bb412e;
 }
 #menu2-b .dropdown-item:hover::before,
 #menu2-b .dropdown-item:focus::before {
-  background: #5aac98;
+  background: #bb412e;
 }
 #menu2-b .dropdown-item:hover,
 #menu2-b .dropdown-item:focus {
-  color: #616161;
+  color: #2d2d2d;
 }
 #menu2-b .link[aria-expanded="true"],
 #menu2-b .dropdown-menu {
@@ -566,7 +566,7 @@ a:hover {
   background: #fff;
 }
 #menu2-b .bg-color.transparent .link {
-  color: #616161;
+  color: #2d2d2d;
   transition: none;
 }
 #menu2-b .bg-color.transparent.opened .link {
@@ -574,11 +574,11 @@ a:hover {
 }
 #menu2-b .bg-color.transparent.opened .link:hover,
 #menu2-b .bg-color.transparent.opened .link:focus {
-  color: #5aac98;
+  color: #bb412e;
 }
 #menu2-b .link[aria-expanded="true"],
 #menu2-b .dropdown-item[aria-expanded="true"] {
-  color: #5aac98!important;
+  color: #bb412e!important;
 }
 #header1-1 .mbr-iconfont {
   color: #fff;
