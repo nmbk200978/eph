@@ -161,13 +161,13 @@
             "bgColor": "#5b5f6b",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/D9FvZQgg6bA?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=D9FvZQgg6bA",
+              "url": "https://www.youtube.com/embed/GAOskJDrxXA?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=GAOskJDrxXA",
               "width": 1280,
               "height": 720
             },
             "overlay": false,
-            "overlayColor": "#8acdbc",
+            "overlayColor": "#fffffd",
             "overlayOpacity": "0.2"
           },
           "title": "<b>Esther Prayer House</b>",
@@ -245,7 +245,11 @@
             ".heading-text": {
               "text-align": "left",
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "22px"
+            },
+            ".heading-title B": {
+              "font-size": "84px"
             }
           }
         },
@@ -298,7 +302,7 @@
             "showFeaturesTexts": true,
             "showFeaturesButtons": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/features4.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1630x1080.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -389,10 +393,10 @@
             "twitter": "",
             "google": "",
             "youtube": "UCCMKIY49CpccMyP9MKRiZsQ",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
             "overlay": true,
             "overlayColor": "#7e9b9f",
             "overlayOpacity": 0.6

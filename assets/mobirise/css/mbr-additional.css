@@ -598,6 +598,10 @@ a:hover {
 #header1-1 .heading-text {
   text-align: left;
   font-family: 'Oxygen', sans-serif;
+  font-size: 22px;
+}
+#header1-1 .heading-title B {
+  font-size: 84px;
 }
 #features4-s .card {
   background-color: transparent;
