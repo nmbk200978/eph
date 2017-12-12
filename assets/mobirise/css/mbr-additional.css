@@ -531,11 +531,11 @@ a:hover {
   font-family: 'Libre Franklin', serif;
 }
 #menu2-b .link {
-  font-size: 1.1rem;
+  font-size: 0.95rem;
 }
 #menu2-b .dropdown-item,
 #menu2-b .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.029rem;
 }
 #menu2-b .link:hover,
 #menu2-b .link:focus {
@@ -563,7 +563,7 @@ a:hover {
 #menu2-b .nav-dropdown-sm,
 #menu2-b .nav-dropdown-sm .link[aria-expanded="true"],
 #menu2-b .nav-dropdown-sm .dropdown-menu {
-  background: #fff;
+  background: #ffffff;
 }
 #menu2-b .bg-color.transparent .link {
   color: #2d2d2d;

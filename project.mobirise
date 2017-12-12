@@ -58,10 +58,10 @@
               "font-family": "'Libre Franklin', serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .link:focus": {
               "color": "#bb412e"
@@ -79,7 +79,7 @@
               "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fff"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#2d2d2d",
@@ -102,8 +102,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fff",
-            "fontSize": "1.1",
+            "bgColor": "#ffffff",
+            "fontSize": "0.95",
             "imageSize": "5",
             "fontName": {
               "name": "Libre Franklin",
@@ -384,6 +384,20 @@
           "_customCSS": ""
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<center> <iframe src=\"https://calendar.google.com/calendar/embed?showTitle=0&amp;height=500&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=nmbharathk%40gmail.com&amp;color=%2329527A&amp;ctz=America%2FChicago\" style=\"border:solid 1px #777\" width=\"1000\" height=\"500\" frameborder=\"0\" scrolling=\"no\"></iframe> </center>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-r",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
           "_params": {
             "googleMap": {
               "address": "412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India",
@@ -402,20 +416,6 @@
           "_JSplaceholders": [],
           "_customCSS": "",
           "_customTemplate": true
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<center> <iframe src=\"https://calendar.google.com/calendar/embed?showTitle=0&amp;height=500&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=nmbharathk%40gmail.com&amp;color=%2329527A&amp;ctz=America%2FChicago\" style=\"border:solid 1px #777\" width=\"1000\" height=\"500\" frameborder=\"0\" scrolling=\"no\"></iframe> </center>",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-r",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
         },
         {
           "_params": {
