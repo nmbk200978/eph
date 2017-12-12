@@ -1,5 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i);
+
+
+
+
+
+
+
 
 
 
@@ -519,54 +527,54 @@ a:hover {
   display: none !important;
 }
 #menu2-b .navbar-toggler {
-  color: #2d2d2d;
+  color: #bf1e2e;
 }
 #menu2-b .close-icon::before,
 #menu2-b .close-icon::after {
-  background-color: #2d2d2d;
+  background-color: #bf1e2e;
 }
 #menu2-b .link,
 #menu2-b .dropdown-item {
-  color: #2d2d2d;
-  font-family: 'Libre Franklin', serif;
+  color: #bf1e2e;
+  font-family: 'Oxygen', sans-serif;
 }
 #menu2-b .link {
-  font-size: 0.95rem;
+  font-size: 1.1rem;
 }
 #menu2-b .dropdown-item,
 #menu2-b .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.191rem;
 }
 #menu2-b .link:hover,
 #menu2-b .link:focus {
-  color: #bb412e;
+  color: #2d2d2d;
 }
 #menu2-b .dropdown-item:hover::before,
 #menu2-b .dropdown-item:focus::before {
-  background: #bb412e;
+  background: #2d2d2d;
 }
 #menu2-b .dropdown-item:hover,
 #menu2-b .dropdown-item:focus {
-  color: #2d2d2d;
+  color: #bf1e2e;
 }
 #menu2-b .link[aria-expanded="true"],
 #menu2-b .dropdown-menu {
-  background: #ffffff;
+  background: #fffffd;
 }
 #menu2-b .nav-dropdown-sm .link:focus,
 #menu2-b .nav-dropdown-sm .link:hover,
 #menu2-b .nav-dropdown-sm .dropdown-item:focus,
 #menu2-b .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #ffffee!important;
 }
 #menu2-b .navbar,
 #menu2-b .nav-dropdown-sm,
 #menu2-b .nav-dropdown-sm .link[aria-expanded="true"],
 #menu2-b .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #fffffd;
 }
 #menu2-b .bg-color.transparent .link {
-  color: #2d2d2d;
+  color: #bf1e2e;
   transition: none;
 }
 #menu2-b .bg-color.transparent.opened .link {
@@ -574,11 +582,11 @@ a:hover {
 }
 #menu2-b .bg-color.transparent.opened .link:hover,
 #menu2-b .bg-color.transparent.opened .link:focus {
-  color: #bb412e;
+  color: #2d2d2d;
 }
 #menu2-b .link[aria-expanded="true"],
 #menu2-b .dropdown-item[aria-expanded="true"] {
-  color: #bb412e!important;
+  color: #2d2d2d!important;
 }
 #header1-1 .mbr-iconfont {
   color: #fff;
@@ -589,6 +597,7 @@ a:hover {
 }
 #header1-1 .heading-text {
   text-align: left;
+  font-family: 'Oxygen', sans-serif;
 }
 #features4-s .card {
   background-color: transparent;
@@ -603,9 +612,37 @@ a:hover {
   color: #616161;
   border-color: #616161;
 }
+#features4-s .card-title {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+}
+#features4-s .heading-title {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#features4-s .card-text {
+  font-family: 'Oxygen', sans-serif;
+}
+#features4-s .heading-text {
+  font-family: 'Oxygen', sans-serif;
+}
 #custom-html-r {
   /* Type valid CSS here */
 }
 #custom-html-r .my-image {
+  width: 100%;
+}
+#msg-box5-w .mbr-section-title {
+  color: #fff;
+  line-height: 1;
+}
+#msg-box5-w .round-text {
+  color: #fff;
+  text-align: left;
+  font-family: 'Oxygen', sans-serif;
+}
+#custom-html-y {
+  /* Type valid CSS here */
+}
+#custom-html-y .my-image {
   width: 100%;
 }

@@ -21,11 +21,12 @@
       },
       "additionalSetColors": [
         "#7e9b9f",
-        "#ffffff"
+        "#ffffff",
+        "#bf1e2e"
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 29,
+    "uniqCompNum": 38,
     "versionPublish": "4.4.0",
     "mcShopcart": {
       "email": "nmbharathk@gmail.com"
@@ -48,51 +49,52 @@
               "display": "none !important"
             },
             ".navbar-toggler": {
-              "color": "#2d2d2d"
+              "color": "#bf1e2e"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2d2d2d"
+              "background-color": "#bf1e2e"
             },
             ".link, .dropdown-item": {
-              "color": "#2d2d2d",
-              "font-family": "'Libre Franklin', serif"
+              "color": "#bf1e2e",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .link:focus": {
-              "color": "#bb412e"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "#bb412e"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
               "color": "#2d2d2d"
             },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#2d2d2d"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#bf1e2e"
+            },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#fffffd"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#ffffee!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#fffffd"
             },
             ".bg-color.transparent .link": {
-              "color": "#2d2d2d",
+              "color": "#bf1e2e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#bb412e"
+              "color": "#2d2d2d"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#bb412e!important"
+              "color": "#2d2d2d!important"
             }
           },
           "_params": {
@@ -102,25 +104,26 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": "0.95",
+            "bgColor": "#fffffd",
+            "fontSize": "1.1",
             "imageSize": "5",
             "fontName": {
-              "name": "Libre Franklin",
-              "css": "'Libre Franklin', serif",
-              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+              "name": "Oxygen",
+              "css": "'Oxygen', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
-            "fontColor": "#2d2d2d",
-            "fontHoverColor": "#bb412e"
+            "fontColor": "#bf1e2e",
+            "fontHoverColor": "#2d2d2d"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">BELIEF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">CALENDAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-e\" aria-expanded=\"false\">RECENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=&amp;item_name=Tithe&amp;currency_code=USD\" aria-expanded=\"false\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">LOCATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">BELIEF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">CALENDAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#feed-e\" aria-expanded=\"false\">RECENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">LOCATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">MINISTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=&amp;item_name=Tithe&amp;currency_code=USD\" aria-expanded=\"false\">GIVE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/151296543426807-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": ""
             },
             "iconFont": {
@@ -152,7 +155,7 @@
             "showFeaturesTexts": true,
             "showFeaturesButtons": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#5b5f6b",
@@ -240,7 +243,9 @@
               "vertical-align": "middle"
             },
             ".heading-text": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
@@ -259,6 +264,23 @@
             ".mbr-iconfont": {
               "color": "#616161",
               "border-color": "#616161"
+            },
+            ".card-title": {
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".heading-title": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            ".card-text": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".heading-text": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -448,18 +470,18 @@
             "paddingBottom": 3,
             "showTitle": true,
             "showText": false,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#7e9b9f",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#fff",
             "overlayOpacity": 0.5
           },
           "text": "Follow us",
           "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, ea!",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-success\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/estherprayerhouse\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social btn-success\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/estherprayerhouse\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
           "_tags": [
             "Theme"
           ],
@@ -470,10 +492,10 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "overlay": true,
             "overlayColor": "#fff",
@@ -481,12 +503,147 @@
           },
           "text": "+91 97411 29270",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">Call us</a>",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>     ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>     ",
           "_tags": [
             "Theme"
           ],
           "_name": "share2",
           "_anchor": "share2-i"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "line-height": "1"
+            },
+            ".round-text": {
+              "color": "#fff",
+              "text-align": "left",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "inverse": true,
+            "showIcons": false,
+            "iconsBorder": true,
+            "iconsColor": "#ffffff",
+            "iconsNumber": "one",
+            "imageSize": 30,
+            "containerColor1": "#bf1e2e",
+            "containerColor2": "#c48cce",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1600x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#dfd9ca",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
+          },
+          "text1": "Salvation TV ministry was founded in the year 2007 in obedience to our Lord Jesus Christ’s great calling to reach the world through media &amp; technology. Our humble beginning started with the launch of “Salvation TV” as a local 24×7 Christian channel serving a small town in Vellore District, in Tamil Nadu India covering over 50,000 viewers. Since then, God has been enabling us to reach the unreached by expanding our network coverage to neighboring cities and states in India. In the year 2013, by our Lord’s grace Salvation TV expanded its broadcasting through Satellite reaching over 120 countries. God has been so faithful in his promise and has made Salvation TV as a great blessing for many millions in India and around the world through its very unique Television programs, outreach, prayer &amp; counselling ministries to enrich people’s spiritual and material life.\n<br>\n<br>Today, Salvation TV has a coverage of over 50 million (5 Crore) Television viewers in India alone with more and more countries taking Salvation TV’s free to air Satellite downstream to broadcast in their country’s local cable channels.\n<br>\n<br>In the year 2016, God again gave the burden to expand this ministry even further to raise great multitude of true followers of Jesus Christ who can stand in the gap to save millions of perishing souls for His kingdom in these end times. Our Lord gave a very clear Vision and Mission to be our core foundation for this ministry until His return.\n<br>\n<br>Vision\n<br>“Uniting with Jesus”\n<br>Mission\n<br>Unleash the power of Prayer\n<br>Proclaim Jesus\n<br>Reach the Unreached\n<br>Care for the needy\n<br>\n<br>We invite every true follower of Christ who has the burden to reach the unreached in these last days to partner with us in our mission to flood the Heaven with billions of souls and make Hell empty!\n<br>\n<br>In Christ,\n<br>Bro. James Vincent",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Salvation TV",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
+          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github.",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/msg-box/mac2.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "browse",
+              "family": "MobiriseIcons",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=m1-adr2OKks",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "timer",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-w"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20157159-1898784263777302-7872355639357617408-o-1-1400x509.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-t"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<video class=\"vjs-tech\" id=\"dcvjs4_68594_c_247322_html5_api\" preload=\"auto\" autoplay=\"\" x-webkit-airplay=\"allow\" src=\"blob:http://salvationtv.in/63884984-8c7d-43d2-8ddb-10b5f0afdeb3\"></video>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-y",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     }
